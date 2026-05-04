@@ -87,7 +87,7 @@ INSERT INTO Users (name, username, password, role, current_semester)
 VALUES ('Mr. Arshad Ali', 'arshadali', '@@##professor1', 'Professor', 1);
 
 INSERT INTO Users (name, username, password, role, current_semester)
-VALUES ('Ms. Sana Malik', 'sanamalik', '@@##professor2', 'Professor', 1);
+VALUES ('Ms. Sana Jameel', 'sanajameel  ', '@@##professor2', 'Professor', 1);
 
 -- Students  (semester 1)
 INSERT INTO Users (name, username, password, role, current_semester)

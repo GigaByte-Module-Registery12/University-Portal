@@ -1,0 +1,18 @@
+these are my universities porject files and There are some fixes and some new features 
+I want to add and I want your help in it. So, there is first thing and that is in admin 
+panel when I add any course to a professor and it is assigned than there should be option 
+in admin panel that is about students assigned in courses and admin can assign every student 
+their courses according to theirs semesters and if a student is in first semester and admin 
+assign that student a course of any other semester but not a first semester course it shows that 
+this course is in any other semester not in first semester and this concept in every semester's 
+courses. In admin panel when an admin logs in there shouldn't be directly showing every user 
+there should be option like view admins, view professors, view students, and in those option 
+there should be edit user option so it can be easy to use and understand. In student panel 
+when student logs in there should be drop down for semester and when student click that drop 
+down there should be semesters in which student was enrolled and is enrolled and when student 
+click any of those semesters there should be records for that semester like view attendance, 
+view marks. and after student has completed semester and student views that semester there 
+shouldn't be these two option (Withdraw, freeze) it should be just for current semester in 
+which student is currently studying.
+Now I want you to give me complete updated code for every file but there is one important 
+thing and that is don't even think of reducing my code's single line just add these features correctly
